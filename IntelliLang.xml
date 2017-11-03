@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="java">
+      <display-name>Inky.convert (com.github.rahulsom.inky)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("convert").withParameters("java.lang.String").definedInClass("com.github.rahulsom.inky.Inky"))]]></place>
+    </injection>
+  </component>
+</application>

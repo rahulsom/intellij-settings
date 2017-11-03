@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/1524e8b2_configuration_1_3.dtd" />
+    <resource url="https://raw.githubusercontent.com/greghaskins/googleappengine/master/java/src/main/com/google/appengine/tools/development/appengine-web.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/63d2486a_appengine-web.xsd" />
+  </component>
+</application>
