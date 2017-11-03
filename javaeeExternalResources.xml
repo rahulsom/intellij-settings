@@ -1,6 +1,10 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://cxf.apache.org/schemas/configuration/http-netty-server.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/6407df5c_http-netty-server.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/parameterized-types.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/2b84f58e_parameterized-types.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/security.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/4eadf60d_security.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/1524e8b2_configuration_1_3.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/334543e7_spring-beans.xsd" />
     <resource url="https://raw.githubusercontent.com/greghaskins/googleappengine/master/java/src/main/com/google/appengine/tools/development/appengine-web.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/63d2486a_appengine-web.xsd" />
   </component>
 </application>
